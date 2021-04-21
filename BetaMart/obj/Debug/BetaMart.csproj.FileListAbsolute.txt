@@ -1,0 +1,11 @@
+C:\Users\ROG SCAR II\source\repos\BetaMart\BetaMart\bin\Debug\dbBetaMart.accdb
+C:\Users\ROG SCAR II\source\repos\BetaMart\BetaMart\bin\Debug\BetaMart.exe.config
+C:\Users\ROG SCAR II\source\repos\BetaMart\BetaMart\bin\Debug\BetaMart.exe
+C:\Users\ROG SCAR II\source\repos\BetaMart\BetaMart\bin\Debug\BetaMart.pdb
+C:\Users\ROG SCAR II\source\repos\BetaMart\BetaMart\obj\Debug\BetaMart.csprojAssemblyReference.cache
+C:\Users\ROG SCAR II\source\repos\BetaMart\BetaMart\obj\Debug\BetaMart.Form1.resources
+C:\Users\ROG SCAR II\source\repos\BetaMart\BetaMart\obj\Debug\BetaMart.Properties.Resources.resources
+C:\Users\ROG SCAR II\source\repos\BetaMart\BetaMart\obj\Debug\BetaMart.csproj.GenerateResource.cache
+C:\Users\ROG SCAR II\source\repos\BetaMart\BetaMart\obj\Debug\BetaMart.csproj.CoreCompileInputs.cache
+C:\Users\ROG SCAR II\source\repos\BetaMart\BetaMart\obj\Debug\BetaMart.exe
+C:\Users\ROG SCAR II\source\repos\BetaMart\BetaMart\obj\Debug\BetaMart.pdb

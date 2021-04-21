@@ -1,0 +1,11 @@
+C:\Users\ROG SCAR II\source\repos\Penambahan_Barang\Penambahan_Barang\bin\Debug\mydb.accdb
+C:\Users\ROG SCAR II\source\repos\Penambahan_Barang\Penambahan_Barang\bin\Debug\Penambahan_Barang.exe.config
+C:\Users\ROG SCAR II\source\repos\Penambahan_Barang\Penambahan_Barang\bin\Debug\Penambahan_Barang.exe
+C:\Users\ROG SCAR II\source\repos\Penambahan_Barang\Penambahan_Barang\bin\Debug\Penambahan_Barang.pdb
+C:\Users\ROG SCAR II\source\repos\Penambahan_Barang\Penambahan_Barang\obj\Debug\Penambahan_Barang.csprojAssemblyReference.cache
+C:\Users\ROG SCAR II\source\repos\Penambahan_Barang\Penambahan_Barang\obj\Debug\Penambahan_Barang.Form1.resources
+C:\Users\ROG SCAR II\source\repos\Penambahan_Barang\Penambahan_Barang\obj\Debug\Penambahan_Barang.Properties.Resources.resources
+C:\Users\ROG SCAR II\source\repos\Penambahan_Barang\Penambahan_Barang\obj\Debug\Penambahan_Barang.csproj.GenerateResource.cache
+C:\Users\ROG SCAR II\source\repos\Penambahan_Barang\Penambahan_Barang\obj\Debug\Penambahan_Barang.csproj.CoreCompileInputs.cache
+C:\Users\ROG SCAR II\source\repos\Penambahan_Barang\Penambahan_Barang\obj\Debug\Penambahan_Barang.exe
+C:\Users\ROG SCAR II\source\repos\Penambahan_Barang\Penambahan_Barang\obj\Debug\Penambahan_Barang.pdb
